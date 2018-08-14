@@ -43,7 +43,7 @@ public class Palindromes
         }
         else
         {
-            System.out.println("I'm very sorry, it's not a palindrome. Sike, I'm a machine and I'm not sorry.");
+            System.out.println("I'm very sorry, it's not a palindrome.");
         }
         
     }
